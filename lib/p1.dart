@@ -20,8 +20,8 @@ class Emp {
     print("enter your id :-");
     cout = stdin.readLineSync();
     print("enter your id :-");
-    exp = stdin.readLineSync();
-  }
+    exp = stdin.readLineSync();}
+
 
   void get() {
     print("*********** EMP DETAILS *************");
